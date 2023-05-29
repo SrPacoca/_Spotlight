@@ -40,7 +40,7 @@ body {
   display: flex;
   flex-direction: column;
 
-  padding-bottom: 20vh;
+  padding-bottom: 40vh;
 }
 html {
   height: 100vh;
